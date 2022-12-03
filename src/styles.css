@@ -1,0 +1,25 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-wrapper {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+  background-color: blue;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
